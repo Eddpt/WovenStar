@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
 
 	s.author			= { 'Sandy Lee' => 'iaomw@live.com' }
 
-	s.source				= { :git => 'https://github.com/iaomw/WovenStar.git', :tag => s.version.to_s }
+	s.source				= { :git => 'https://github.com/Eddpt/WovenStar.git', :tag => 0.1 }
 
 	s.requires_arc			= true
 	s.platform				= :ios, '7.0'	
